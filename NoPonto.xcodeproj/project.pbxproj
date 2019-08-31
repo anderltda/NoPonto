@@ -19,6 +19,7 @@
 		ACDC32ED231AA2D400F350E3 /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDC32EC231AA2D400F350E3 /* InterfaceController.swift */; };
 		ACDC32EF231AA2D400F350E3 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDC32EE231AA2D400F350E3 /* ExtensionDelegate.swift */; };
 		ACDC32F1231AA2D500F350E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACDC32F0231AA2D500F350E3 /* Assets.xcassets */; };
+		ACDC3301231AB9AE00F350E3 /* MeatTemperature.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDC3300231AB9AE00F350E3 /* MeatTemperature.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +81,7 @@
 		ACDC32EE231AA2D400F350E3 /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
 		ACDC32F0231AA2D500F350E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACDC32F2231AA2D500F350E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACDC3300231AB9AE00F350E3 /* MeatTemperature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeatTemperature.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				ACDC32EE231AA2D400F350E3 /* ExtensionDelegate.swift */,
 				ACDC32F0231AA2D500F350E3 /* Assets.xcassets */,
 				ACDC32F2231AA2D500F350E3 /* Info.plist */,
+				ACDC3300231AB9AE00F350E3 /* MeatTemperature.swift */,
 			);
 			path = "NoPonto WatchKit Extension";
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 			files = (
 				ACDC32EF231AA2D400F350E3 /* ExtensionDelegate.swift in Sources */,
 				ACDC32ED231AA2D400F350E3 /* InterfaceController.swift in Sources */,
+				ACDC3301231AB9AE00F350E3 /* MeatTemperature.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
